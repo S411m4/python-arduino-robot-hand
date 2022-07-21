@@ -1,7 +1,7 @@
 #versions are important:
 #cvzone = 1.1
 #mediapipe = 0.8.8
-
+#install (serial) module for cvzone module to work
 import cv2
 import cvzone
 
