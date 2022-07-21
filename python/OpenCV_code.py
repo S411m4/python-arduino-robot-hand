@@ -1,6 +1,6 @@
 #versions are important:
 #cvzone = 1.1
-#mediapip = 0.8.8
+#mediapipe = 0.8.8
 
 import cv2
 import cvzone
